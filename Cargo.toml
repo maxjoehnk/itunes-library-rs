@@ -1,0 +1,7 @@
+[package]
+name = "itunes-library"
+version = "0.1.0"
+authors = ["Max Jöhnk <maxjoehnk@gmail.com>"]
+
+[dependencies]
+xml-rs = "0.8"
